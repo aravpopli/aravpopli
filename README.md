@@ -1,5 +1,5 @@
 - Hi! My name is Arav and I'm a first year computer science and statistics student at Purdue University.
-- My current academic interests include everything machine learning and statistics. 
+- My current academic interests include everything ML and stats. 
 - I'm an avid startup and quantitative trading enthusiast and I'm looking to pursue a career in either of those
 - fields
 - Feel free to contact me at popli@purdue.edu!
